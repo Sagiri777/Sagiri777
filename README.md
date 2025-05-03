@@ -6,7 +6,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sagiri777&theme=radical&row=1&column=7" alt="Sagiri777's GitHub Trophies" />
 </p>
 
-I'm **Sagiri777**
+I'm **Sagiri777**, working on private repositories
 
 ---
 
