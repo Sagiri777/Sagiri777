@@ -6,13 +6,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sagiri777&theme=radical&row=1&column=7" alt="Sagiri777's GitHub Trophies" />
 </p>
 
-I'm **Sagiri777**, working on private repositories
+I'm **Sagiri777**, working on some interesting repositories
 
 ---
 
 ## About Me
 
-- 点击输入文字
+- Just for fun.
 
 ---
 
